@@ -1,0 +1,9 @@
+*.md
+*.png
+!/Main course/**/*.md
+!/Main course/*.md
+!/Main course/**/*.png
+!/Main course/*.png
+!Definitions.md
+!Q&A.md
+!Terminology.md
